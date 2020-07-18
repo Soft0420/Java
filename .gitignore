@@ -1,5 +1,8 @@
 /.metadata/
 
+### Test NG results ###
+test-output/
+
 ### Eclipse ###
 .metadata
 bin/
